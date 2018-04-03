@@ -1,0 +1,15 @@
+unit USale;
+
+interface
+
+uses URegister, UStore;
+
+type
+
+  TSale = class
+
+  end;
+
+implementation
+
+end.

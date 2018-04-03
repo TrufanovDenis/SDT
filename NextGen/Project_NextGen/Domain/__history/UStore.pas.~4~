@@ -1,0 +1,15 @@
+unit UStore;
+
+interface
+
+uses UAddress;
+
+type
+
+  TStore = class
+
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.03.21 09:08:37.728,=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.03.21 09:08:49.972,=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:08:53.773,=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018.03.21 09:09:49.133,C:\Users\студ.K201-06\Desktop\Программа NextGen\UI\Unit1.pas=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.03.21 09:09:49.133,C:\Users\студ.K201-06\Desktop\Программа NextGen\UI\Unit1.dfm=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.03.21 09:10:38.931,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Unit3.pas=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018.03.21 09:10:44.023,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Unit2.pas=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:10:53.407,C:\Users\студ.K201-06\Desktop\Программа NextGen\Project1.dproj=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.03.21 09:12:04.333,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Payment.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:19:16.636,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Umoney.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Unit3.pas</Transaction>
+    <Transaction>2018.03.21 09:20:26.391,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\ProductCatalog.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Umoney.pas</Transaction>
+    <Transaction>2018.03.21 09:20:32.464,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:20:45.032,C:\Users\студ.K201-06\Desktop\Программа NextGen\src\UMoney.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:26:30.394,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:26:48.876,C:\Users\студ.K201-06\Desktop\Программа NextGen\UTRegister.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:26:52.775,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\UProductCatalog.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\ProductCatalog.pas</Transaction>
+    <Transaction>2018.03.21 09:26:57.123,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\UPayment.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\Payment.pas</Transaction>
+    <Transaction>2018.03.21 09:27:22.621,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\URegister.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\UTRegister.pas</Transaction>
+    <Transaction>2018.03.21 09:27:36.253,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:27:50.165,C:\Users\студ.K201-06\Desktop\Программа NextGen\UProductDescription.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:27:56.988,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:28:03.876,C:\Users\студ.K201-06\Desktop\Программа NextGen\USale.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:28:11.216,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:28:20.848,C:\Users\студ.K201-06\Desktop\Программа NextGen\USalesLineItem.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:28:25.809,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:28:32.433,C:\Users\студ.K201-06\Desktop\Программа NextGen\UStore.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:28:41.419,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\UStore.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\UStore.pas</Transaction>
+    <Transaction>2018.03.21 09:28:43.541,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\USalesLineItem.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\USalesLineItem.pas</Transaction>
+    <Transaction>2018.03.21 09:28:45.306,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\USale.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\USale.pas</Transaction>
+    <Transaction>2018.03.21 09:28:46.942,C:\Users\студ.K201-06\Desktop\Программа NextGen\Domain\UProductDescription.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\UProductDescription.pas</Transaction>
+    <Transaction>2018.03.21 09:37:50.881,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:37:53.804,=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit3.pas</Transaction>
+    <Transaction>2018.03.21 09:38:07.566,C:\Users\студ.K201-06\Desktop\Программа NextGen\address.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit2.pas</Transaction>
+    <Transaction>2018.03.21 09:39:00.137,C:\Users\студ.K201-06\Desktop\Программа NextGen\UItemID.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\Unit3.pas</Transaction>
+    <Transaction>2018.03.21 09:39:04.894,C:\Users\студ.K201-06\Desktop\Программа NextGen\UAddress.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\address.pas</Transaction>
+    <Transaction>2018.03.21 09:39:09.081,C:\Users\студ.K201-06\Desktop\Программа NextGen\src\UItemID.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\UItemID.pas</Transaction>
+    <Transaction>2018.03.21 09:39:11.418,C:\Users\студ.K201-06\Desktop\Программа NextGen\src\UAddress.pas=C:\Users\студ.K201-06\Desktop\Программа NextGen\UAddress.pas</Transaction>
+  </Transactions>
+</BorlandProject>

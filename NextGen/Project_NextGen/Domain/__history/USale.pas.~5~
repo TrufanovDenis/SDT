@@ -1,0 +1,24 @@
+unit USale;
+
+interface
+
+uses USalesLineItem, UPayment, UMoney,UProductDescription, SysUtils, Generic.Co
+
+type
+
+  TSale = class
+  private
+
+    payment:TPayment;
+  public
+    function getBalance:TMoney;
+
+    function  isComplete:boolean;
+
+    function getTotal:Tmoney;
+
+  end;
+
+implementation
+
+end.

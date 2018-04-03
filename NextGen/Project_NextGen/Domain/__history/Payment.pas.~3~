@@ -1,0 +1,14 @@
+unit Payment;
+
+interface
+
+type
+  Payment = class
+
+  end;
+
+implementation
+
+
+
+end.

@@ -1,0 +1,13 @@
+unit USale;
+
+interface
+
+type
+
+  TSale = class
+
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,15 @@
+unit UProductDescription;
+
+interface
+
+uses UProductCatalog, USalesLineItem;
+
+type
+
+  TProductDescription = class
+
+  end;
+
+implementation
+
+end.

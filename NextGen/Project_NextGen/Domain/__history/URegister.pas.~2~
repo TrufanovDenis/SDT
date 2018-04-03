@@ -1,0 +1,13 @@
+unit URegister;
+
+interface
+
+type
+
+  TRegister = class
+
+  end;
+
+implementation
+
+end.

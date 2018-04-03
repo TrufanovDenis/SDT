@@ -1,0 +1,13 @@
+unit UProductDescription;
+
+interface
+
+type
+
+  TProductDescription = class
+
+  end;
+
+implementation
+
+end.

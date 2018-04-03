@@ -1,0 +1,14 @@
+unit UProductCatalog;
+
+interface
+
+uses UStore, URegister;
+
+type
+  TProductCatalog = class
+
+  end;
+
+implementation
+
+end.

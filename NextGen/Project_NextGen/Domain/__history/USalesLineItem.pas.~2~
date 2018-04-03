@@ -1,0 +1,13 @@
+unit USalesLineItem;
+
+interface
+
+type
+
+  TSalesLineItem = class
+
+  end;
+
+implementation
+
+end.

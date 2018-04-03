@@ -1,0 +1,14 @@
+unit URegister;
+
+interface
+
+uses UStore;
+type
+
+  TRegister = class
+
+  end;
+
+implementation
+
+end.
