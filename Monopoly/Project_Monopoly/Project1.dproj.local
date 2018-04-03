@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.257,=C:\Users\EldarNikel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\EldarNikel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,=C:\Users\EldarNikel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.04.03 20:50:06.462,=C:\Users\EldarNikel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.04.03 20:50:42.149,C:\Users\EldarNikel\Desktop\Project_Monopoly\UI\Unit1.pas=C:\Users\EldarNikel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.04.03 20:50:42.149,C:\Users\EldarNikel\Desktop\Project_Monopoly\UI\Unit1.dfm=C:\Users\EldarNikel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.04.03 20:50:46.021,C:\Users\EldarNikel\Desktop\Project_Monopoly\Project1.dproj=C:\Users\EldarNikel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.04.03 20:51:21.651,=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:52:39.183,C:\Users\EldarNikel\Desktop\Project_Monopoly\UBoard.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:52:54.949,C:\Users\EldarNikel\Desktop\Project_Monopoly\Domain\UBoard.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\UBoard.pas</Transaction>
+    <Transaction>2018.04.03 20:53:01.349,=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:53:23.464,C:\Users\EldarNikel\Desktop\Project_Monopoly\UDie.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:53:27.403,=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:53:54.181,C:\Users\EldarNikel\Desktop\Project_Monopoly\UMonopolyGame.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:54:03.029,=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:54:12.298,C:\Users\EldarNikel\Desktop\Project_Monopoly\UPiece.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:54:15.915,=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:54:28.690,C:\Users\EldarNikel\Desktop\Project_Monopoly\UPlayer.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:54:38.603,=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:54:46.775,C:\Users\EldarNikel\Desktop\Project_Monopoly\USquare.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\Unit2.pas</Transaction>
+    <Transaction>2018.04.03 20:54:53.393,C:\Users\EldarNikel\Desktop\Project_Monopoly\Domain\USquare.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\USquare.pas</Transaction>
+    <Transaction>2018.04.03 20:54:57.095,C:\Users\EldarNikel\Desktop\Project_Monopoly\Domain\UPlayer.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\UPlayer.pas</Transaction>
+    <Transaction>2018.04.03 20:54:59.309,C:\Users\EldarNikel\Desktop\Project_Monopoly\Domain\UPiece.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\UPiece.pas</Transaction>
+    <Transaction>2018.04.03 20:55:00.819,C:\Users\EldarNikel\Desktop\Project_Monopoly\Domain\UMonopolyGame.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\UMonopolyGame.pas</Transaction>
+    <Transaction>2018.04.03 20:55:02.341,C:\Users\EldarNikel\Desktop\Project_Monopoly\Domain\UDie.pas=C:\Users\EldarNikel\Desktop\Project_Monopoly\UDie.pas</Transaction>
+  </Transactions>
+</BorlandProject>
